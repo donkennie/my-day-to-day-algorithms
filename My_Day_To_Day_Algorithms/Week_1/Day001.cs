@@ -9,7 +9,7 @@ namespace My_Day_To_Day_Algorithms.Week_1
     public class Day001 // Understanding how Big O notation works...                           
     {
 
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             var i = PairSumSequence(3);
             Console.WriteLine(i);
