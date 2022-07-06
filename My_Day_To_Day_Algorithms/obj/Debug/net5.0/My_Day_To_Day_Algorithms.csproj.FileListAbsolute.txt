@@ -1,0 +1,16 @@
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\bin\Debug\net5.0\My_Day_To_Day_Algorithms.exe
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\bin\Debug\net5.0\My_Day_To_Day_Algorithms.deps.json
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\bin\Debug\net5.0\My_Day_To_Day_Algorithms.runtimeconfig.json
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\bin\Debug\net5.0\My_Day_To_Day_Algorithms.runtimeconfig.dev.json
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\bin\Debug\net5.0\My_Day_To_Day_Algorithms.dll
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\bin\Debug\net5.0\ref\My_Day_To_Day_Algorithms.dll
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\bin\Debug\net5.0\My_Day_To_Day_Algorithms.pdb
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.AssemblyInfo.cs
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.dll
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\ref\My_Day_To_Day_Algorithms.dll
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.pdb
+C:\Users\owner\Documents\KennyProjects\My_Day_To_Day_Algorithms\My_Day_To_Day_Algorithms\obj\Debug\net5.0\My_Day_To_Day_Algorithms.genruntimeconfig.cache
