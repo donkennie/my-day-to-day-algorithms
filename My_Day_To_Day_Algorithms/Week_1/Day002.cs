@@ -9,12 +9,12 @@ namespace My_Day_To_Day_Algorithms.Week_1
     public class Day002 // Learning about Recursive function. It's a function that calls itself and continue to do so until evaluation is finished...
     {
 
-        public static void Main(string[] args)
+      /* public static void Main(string[] args)
         {
-            var i = Factorial(3);
-            Console.WriteLine(i);
+            //var i = Factorial(3);
+            //Console.WriteLine(i);
         }
-
+      */
 
         public static int Factorial(int n)
         {
